@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Sing",
+        "author": "Travis",
+        "chords": "Em, Am7,G,D,Am"
+    },
+    {
+        "id": "2",
+        "name": "Losing my religion",
+        "author": "REM",
+        "chords": "F, Am, G, Dm, D, C"
+    },
+    {
+        "id": "3",
+        "name": "Morango do Nordeste",
+        "author": "Karametade",
+        "chords": "Em, C,G,Dm,Am"
+    },
+    {
+        "id": "4",
+        "name": "Chance",
+        "author": "Ataque 77",
+        "chords": "E, Bm, A, F#m, G#m, C#m, D"
+    }
+]
